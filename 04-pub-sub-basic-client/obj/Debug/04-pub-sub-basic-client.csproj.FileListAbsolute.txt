@@ -1,0 +1,16 @@
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\amd64\libzmq.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\i386\libzmq.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\amd64\libzmq.so
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\amd64\libzmq.dylib
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\04-pub-sub-basic-client.exe.config
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\04-pub-sub-basic-client.exe
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\04-pub-sub-basic-client.pdb
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\CommandLine.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\ZeroMQ.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\CommandLine.xml
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\bin\Debug\ZeroMQ.xml
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\obj\Debug\04-pub-sub-basic-client.csproj.AssemblyReference.cache
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\obj\Debug\04-pub-sub-basic-client.csproj.CoreCompileInputs.cache
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\obj\Debug\04-pub-sub-basic-client.csproj.CopyComplete
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\obj\Debug\04-pub-sub-basic-client.exe
+C:\Users\tpdms\source\repos\ZMQ_Project\04-pub-sub-basic-client\obj\Debug\04-pub-sub-basic-client.pdb

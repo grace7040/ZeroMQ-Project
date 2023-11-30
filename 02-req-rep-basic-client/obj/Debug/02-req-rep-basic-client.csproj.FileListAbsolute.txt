@@ -1,0 +1,14 @@
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\amd64\libzmq.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\i386\libzmq.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\amd64\libzmq.so
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\amd64\libzmq.dylib
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\02-req-rep-basic-client.exe.config
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\02-req-rep-basic-client.exe
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\02-req-rep-basic-client.pdb
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\ZeroMQ.dll
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\bin\Debug\ZeroMQ.xml
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\obj\Debug\02-req-rep-basic-client.csproj.AssemblyReference.cache
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\obj\Debug\02-req-rep-basic-client.csproj.CoreCompileInputs.cache
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\obj\Debug\02-req-rep-basic-client.csproj.CopyComplete
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\obj\Debug\02-req-rep-basic-client.exe
+C:\Users\tpdms\source\repos\ZMQ_Project\02-req-rep-basic-client\obj\Debug\02-req-rep-basic-client.pdb
